@@ -1,1 +1,1 @@
-# Implementation of Expectation Maximization Algorithm to Access Stepchart Difficulties
+# Implementation of EM Algorithm to Assign Stepchart Difficulties
